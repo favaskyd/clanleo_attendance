@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21355186499",
+    "project_id": "clanleoattendance",
+    "storage_bucket": "clanleoattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21355186499:android:72ad7f36b6dc9ff273c7f6",
+        "android_client_info": {
+          "package_name": "com.example.clanleo_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGibE45E7NVF0xKwb0-qUZcaot-RobTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
